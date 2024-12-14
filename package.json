@@ -1,0 +1,16 @@
+{
+  "name": "react-native-module-bundle-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "bundle",
+    "loader",
+    "native-module"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farzinmirzaie/react-native-module-bundle-loader"
+  }
+}
